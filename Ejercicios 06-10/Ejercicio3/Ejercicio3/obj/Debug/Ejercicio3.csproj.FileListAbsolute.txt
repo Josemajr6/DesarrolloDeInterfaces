@@ -1,0 +1,7 @@
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

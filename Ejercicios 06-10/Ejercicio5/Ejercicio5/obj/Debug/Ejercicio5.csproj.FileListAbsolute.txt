@@ -1,0 +1,7 @@
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+G:\Otros ordenadores\Mi PC (1)\Desarrollo de Interfaces\do\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
