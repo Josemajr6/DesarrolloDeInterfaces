@@ -1,0 +1,35 @@
+﻿<Window x:Class="Ejercicio7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <TextBox x:Name="tbTexto" 
+                     Width="200"
+                     Margin="0,0,0,10"
+                     TextAlignment="Center"/>
+
+            <Button Padding="10" Margin="25, 0,25,0">
+                <StackPanel Orientation="Horizontal">
+
+                    <Image x:Name="Boton" 
+                           Source="/advertencia.ico" 
+                           Width="24" 
+                           Height="24"
+                           Margin="0,0,10,0"
+                           MouseLeftButtonDown="Boton_Click"/>
+
+                    <TextBlock Text="Haz clic!" 
+                               VerticalAlignment="Center"/>
+
+                </StackPanel>
+            </Button>
+
+        </StackPanel>
+    </Grid>
+</Window>
