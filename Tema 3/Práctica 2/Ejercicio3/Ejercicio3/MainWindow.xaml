@@ -1,0 +1,40 @@
+﻿<Window x:Class="Ejercicio3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Margin="50" 
+               TextWrapping="WrapWithOverflow" 
+               FontSize="22"
+               Foreground="Black">
+
+        <Span FontSize="32" FontWeight="Bold" Foreground="DarkSlateGray">
+            China acusa a la NSA
+        </Span> 
+        de haber infiltrado su 
+        <Bold>centro nacional del tiempo</Bold>, 
+        una instalación que ajusta los relojes de 
+        <Span Foreground="RoyalBlue">bancos, sistemas de defensa</Span> 
+        y redes de comunicación crítica. 
+        Según las autoridades, la intrusión afectó 
+        a servidores que regulan la hora oficial, 
+        comprometiendo la <Italic>precisión temporal</Italic> 
+        que sustenta gran parte del país. 
+
+        <Span Foreground="Red" FontWeight="Bold">
+            Pekín acusa directamente
+        </Span> 
+        a la <Span Background="Gainsboro">Agencia de Seguridad Nacional estadounidense (NSA)</Span> 
+        de realizar operaciones de espionaje digital, 
+        lo que eleva la tensión entre ambas potencias. 
+        Expertos advierten que, de confirmarse, 
+        el ataque representaría una 
+        <Bold>violación grave de la soberanía tecnológica</Bold> 
+        y un nuevo capítulo en la guerra cibernética global.
+        </TextBlock>
+    </Grid>
+</Window>
