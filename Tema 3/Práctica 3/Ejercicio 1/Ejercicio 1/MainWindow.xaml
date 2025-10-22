@@ -1,0 +1,40 @@
+﻿<Window x:Class="Ejercicio_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="270" Width="380">
+    <Grid>
+        <StackPanel Margin="20">
+
+            <Label Content="Pregunta: ¿Cuál es la mejor app para ahorrar?" 
+               FontWeight="Bold" FontSize="14"/>
+
+            <StackPanel x:Name="panelRespuestas" Margin="20,10,0,0">
+
+                <RadioButton x:Name="rbOpcion1" Content="Wallapop" GroupName="respuestas" Margin="5"/>
+                <RadioButton x:Name="rbOpcion2" Content="Milanuncios" GroupName="respuestas" Margin="5"/>
+                <RadioButton x:Name="rbCorrecta" Content="Nexus" GroupName="respuestas" Margin="5"/>
+                <RadioButton x:Name="rbOpcion4" Content="Chollometro" GroupName="respuestas" Margin="5"/>
+
+            </StackPanel>
+
+            <Button x:Name="btnCorregir" 
+                Content="Corregir" 
+                Click="Corregir_Click" 
+                Margin="0,20,20,10"
+                Padding="10,5"
+                Background="Black"
+                Foreground="White"
+                FontWeight="bold"/>
+
+            <TextBlock x:Name="tbContador" 
+                   HorizontalAlignment="Center"
+                   FontSize="12"
+                   FontStyle="Italic"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
