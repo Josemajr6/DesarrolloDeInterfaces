@@ -1,0 +1,26 @@
+﻿<Window x:Class="Ejercicio8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio8"
+        mc:Ignorable="d"
+        Title="CheckBox - 2DAM" Height="250" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label FontWeight="Bold">Módulos que pienso aprobar</Label>
+            <StackPanel Margin="20">
+                <CheckBox IsThreeState="True" Name="TodoCheck" Checked="TodoCheck_Check" Unchecked="TodoCheck_Check">Todos los módulos</CheckBox>
+                <StackPanel Margin="30">
+
+                    <CheckBox Name="di" Checked="check" Unchecked="check">Desarrollo de Interfaces</CheckBox>
+                    <CheckBox Name="sge" Checked="check" Unchecked="check">Sistemas de gestion empresarial</CheckBox>
+                    <CheckBox Name="ad" Checked="check" Unchecked="check">Acceso a Datos</CheckBox>
+
+                </StackPanel>
+
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
