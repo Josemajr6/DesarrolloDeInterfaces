@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ejercicio_2</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Chollometro_Logo.png" />
+    <None Remove="Milanuncios_Logo.png" />
+    <None Remove="Nexus_Logo.png" />
+    <None Remove="Wallapop_Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Chollometro_Logo.png" />
+    <Resource Include="Milanuncios_Logo.png" />
+    <Resource Include="Nexus_Logo.png" />
+    <Resource Include="Wallapop_Logo.png" />
+  </ItemGroup>
+
+</Project>
