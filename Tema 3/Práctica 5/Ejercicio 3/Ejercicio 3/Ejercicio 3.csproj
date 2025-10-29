@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ejercicio_3</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\foto1.png" />
+    <None Remove="Assets\foto2.png" />
+    <None Remove="Assets\foto3.png" />
+    <None Remove="Assets\foto4.png" />
+    <None Remove="Assets\foto5.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\foto2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\foto1.png" />
+    <Resource Include="Assets\foto3.png" />
+    <Resource Include="Assets\foto4.png" />
+    <Resource Include="Assets\foto5.png" />
+  </ItemGroup>
+
+</Project>

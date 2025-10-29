@@ -1,0 +1,29 @@
+﻿<Window x:Class="Ejercicio_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <StackPanel Margin="20">
+
+        <TextBlock FontSize="18" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,15"> Formulario de Contacto</TextBlock>
+
+        <Label>Nombre:</Label>
+        <TextBox Name="txtNombre" Margin="0,0,0,10"/>
+
+        <Label>Correo electrónico</Label>
+        <TextBox Name="txtCorreo" Margin="0,0,0,15"/>
+
+        <Button Name="btnEnviar" Padding="10,5" Margin="0,0,0,10" Background="Black" Foreground="White">Enviar</Button>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+
+            <Button Name="btnLimpiar" Width="100" Margin="5" Background="Black" Foreground="White">Limpiar</Button>
+            <Button Name="btnCancelar" Width="100" Margin="5" Background="Black" Foreground="White">Cancelar</Button>
+
+        </StackPanel>
+    </StackPanel>
+</Window>
