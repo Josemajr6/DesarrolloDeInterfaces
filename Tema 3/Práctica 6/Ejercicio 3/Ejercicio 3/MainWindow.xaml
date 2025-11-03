@@ -1,0 +1,39 @@
+﻿<Window x:Class="Ejercicio_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_3"
+        mc:Ignorable="d"
+        Title="IES Rod.Marín - Prueba OpenFIle/SaveFile" Height="450" Width="800">
+
+    <DockPanel>
+
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" Margin="5">
+
+            <Button Name="btnAbrir" Margin="5" Padding="10,5" Click="Abrir_Click">
+                <Button.ToolTip>
+                    Abre un archivo .txt existente en tu ordenador.
+                </Button.ToolTip>
+                Abrir fichero
+            </Button>
+
+            <Button Name="btnGuardar" Margin="5" Padding="10,5" Click="Guardar_Click">
+                <Button.ToolTip>
+                    Guarda el contenido del editor en un nuevo archivo .txt.
+                </Button.ToolTip>
+                Guardar fichero
+            </Button>
+
+        </StackPanel>
+
+        <TextBox Name="txtEditor" 
+                 Margin="5,0,5,5"
+                 TextWrapping="Wrap" 
+                 AcceptsReturn="True"
+                 FontSize="14"
+                 BorderBrush="Gray"
+                 VerticalScrollBarVisibility="Auto"/>
+
+    </DockPanel>
+</Window>
