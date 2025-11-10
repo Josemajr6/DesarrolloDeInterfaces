@@ -1,0 +1,26 @@
+﻿<Window x:Class="Ejercicio_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+
+            <Button Name="btnSimple" Margin="5" Click="BtnSimple_Click">Simple MessageBox</Button>
+
+            <Button Name="btnTitle" Margin="5" Click="BtnTitle_Click">MessageBox with title</Button>
+
+            <Button Name="btnButtons" Margin="5" Click="BtnButtons_Click">MessageBox with buttons</Button>
+
+            <Button Name="btnResponse" Margin="5" Click="BtnResponse_Click">MessageBox with response</Button>
+
+            <Button Name="btnIcon" Margin="5" Click="BtnIcon_Click">MessageBox with icon</Button>
+
+            <Button Name="btnDefault" Margin="5" Click="BtnDefault_Click">MessageBox with default choice</Button>
+
+        </StackPanel>
+    </Grid>
+</Window>

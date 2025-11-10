@@ -28,7 +28,7 @@
         </StatusBar>
 
         <StackPanel DockPanel.Dock="Left" Margin="10" Width="150">
-            <Button Margin="0,5" Background="Beige">Botón 1</Button>
+            <Button Margin="0,5" Background="Beige" Click="Butoncillo1_Click">Botón 1</Button>
             <Button Margin="0,5" Background="Beige">Botón 2</Button>
             <Button Margin="0,5" Background="Beige">Botón 3</Button>
         </StackPanel>

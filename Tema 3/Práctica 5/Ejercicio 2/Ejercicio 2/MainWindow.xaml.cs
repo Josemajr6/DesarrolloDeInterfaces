@@ -20,5 +20,10 @@ namespace Ejercicio_2
         {
             InitializeComponent();
         }
+
+        private void Butoncillo1_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

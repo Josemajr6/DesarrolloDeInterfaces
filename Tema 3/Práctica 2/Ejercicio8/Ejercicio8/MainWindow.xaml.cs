@@ -36,5 +36,6 @@ namespace Ejercicio8
             if ((di.IsChecked == false) && (sge.IsChecked == false) && (ad.IsChecked == false))
             { TodoCheck.IsChecked = false; }
         }
+
     }
 }
