@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ejercicio_2</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\abrir.png" />
+    <None Remove="Assets\archivo.png" />
+    <None Remove="Assets\copiar.png" />
+    <None Remove="Assets\cortar.png" />
+    <None Remove="Assets\editar.png" />
+    <None Remove="Assets\guardar.png" />
+    <None Remove="Assets\nuevo.png" />
+    <None Remove="Assets\pegar.png" />
+    <None Remove="Assets\salir.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\abrir.png" />
+    <Resource Include="Assets\archivo.png" />
+    <Resource Include="Assets\copiar.png" />
+    <Resource Include="Assets\cortar.png" />
+    <Resource Include="Assets\editar.png" />
+    <Resource Include="Assets\guardar.png" />
+    <Resource Include="Assets\nuevo.png" />
+    <Resource Include="Assets\pegar.png" />
+    <Resource Include="Assets\salir.png" />
+  </ItemGroup>
+
+</Project>

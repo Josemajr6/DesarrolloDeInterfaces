@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 8\\ejercicio 2\\ejercicio 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 8\\ejercicio 2\\ejercicio 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 8\\ejercicio 2\\ejercicio 2\\assets\\copiar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\assets\\copiar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 8\\ejercicio 2\\ejercicio 2\\assets\\archivo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7A9563B9-7137-491C-BDD7-EE2E72CDE6A3}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\assets\\archivo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "copiar.png - PNG [512x512, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\Assets\\copiar.png",
+              "RelativeDocumentMoniker": "Ejercicio 2\\Assets\\copiar.png",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\Assets\\copiar.png - PNG [512x512, 32 bits, PNG]",
+              "RelativeToolTip": "Ejercicio 2\\Assets\\copiar.png - PNG [512x512, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-11T13:03:31.15Z",
+              "EditorCaption": " - PNG [512x512, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "archivo.png - PNG [512x512, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\Assets\\archivo.png",
+              "RelativeDocumentMoniker": "Ejercicio 2\\Assets\\archivo.png",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\Assets\\archivo.png - PNG [512x512, 32 bits, PNG]",
+              "RelativeToolTip": "Ejercicio 2\\Assets\\archivo.png - PNG [512x512, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-11T13:01:47.252Z",
+              "EditorCaption": " - PNG [512x512, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ejercicio 2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\MainWindow.xaml",
+              "RelativeToolTip": "Ejercicio 2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T12:38:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 8\\Ejercicio 2\\Ejercicio 2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ejercicio 2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:38:55.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
