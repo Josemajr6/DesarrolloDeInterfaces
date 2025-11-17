@@ -1,0 +1,25 @@
+﻿<Window x:Class="IntroduccionNivel_Intermedio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntroduccionNivel_Intermedio"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid Margin="15">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <Label FontSize="20">Precio original (€):</Label>
+            <TextBox Name="tbPrecioOriginal" Margin="5" FontSize="18"></TextBox>
+
+            <Label FontSize="13" Margin="0,15,0,0">Porcentaje de descuento:</Label>
+            
+            <RadioButton Name="rb10" GroupName="Descuento" Margin="5" IsChecked="True">10%</RadioButton>
+            <RadioButton Name="rb25" GroupName="Descuento" Margin="5">25%</RadioButton>
+            <RadioButton Name="rb50" GroupName="Descuento" Margin="5">50%</RadioButton>
+            <RadioButton Name="rb75" GroupName="Descuento" Margin="5">75%</RadioButton>
+            <Button Name="btnCalcular" Margin="0,15,0,0" Foreground="White" Background="Black" Height="30" FontSize="14" Click="BtnCalcular_Click">Calcular</Button>
+
+        </StackPanel>
+    </Grid>
+</Window>

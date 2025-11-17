@@ -10,57 +10,44 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Ejercicio_2
-{
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
     {
-        public MainWindow()
+        public partial class MainWindow : Window
         {
-            InitializeComponent();
-        }
+            public MainWindow()
+            {
+                InitializeComponent();
+            }
 
-        private void MenuNuevo_Click(object sender, RoutedEventArgs e)
-        {
+            private void MenuOpcion1_1_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 1.1");
+            }
 
-            MessageBox.Show("Has elegido: Nuevo");
-        }
+            private void MenuOpcion1_2_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 1.2");
+            }
+            private void MenuOpcion1_3_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 1.3");
+            }
 
-        private void MenuAbrir_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Has elegido: Abrir");
-        }
+            private void MenuOpcion1_4_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 1.4");
+            }
 
-        private void MenuGuardar_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Has elegido: Guardar");
-        }
-
-        private void MenuSalir_Click(object sender, RoutedEventArgs e)
-        {
-     
-            MessageBox.Show("Cerrando la aplicación...");
-
-
-            this.Close();
-        }
-
-
-        private void MenuCortar_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Has elegido: Cortar");
-        }
-
-        private void MenuCopiar_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("Has elegido: Copiar");
-        }
-
-        private void MenuPegar_Click(object sender, RoutedEventArgs e)
-        {
-  
-            MessageBox.Show("Has elegido: Pegar");
+            private void MenuOpcion2_1_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 2.1");
+            }
+            private void MenuOpcion2_2_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 2.2");
+            }
+            private void MenuOpcion2_3_Click(object sender, RoutedEventArgs e)
+            {
+                MessageBox.Show("Has elegido: Sub-opción 2.3");
+            }
         }
     }
-}

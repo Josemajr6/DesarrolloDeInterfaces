@@ -9,4 +9,24 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Assets\archivo.png" />
+    <None Remove="Assets\copiar.png" />
+    <None Remove="Assets\cortar.png" />
+    <None Remove="Assets\editar.png" />
+    <None Remove="Assets\guardar.png" />
+    <None Remove="Assets\nuevo.png" />
+    <None Remove="Assets\pegar.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\archivo.png" />
+    <Resource Include="Assets\copiar.png" />
+    <Resource Include="Assets\cortar.png" />
+    <Resource Include="Assets\editar.png" />
+    <Resource Include="Assets\guardar.png" />
+    <Resource Include="Assets\nuevo.png" />
+    <Resource Include="Assets\pegar.png" />
+  </ItemGroup>
+
 </Project>

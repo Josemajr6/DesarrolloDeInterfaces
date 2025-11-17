@@ -7,13 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="15">
-        <StackPanel>
-            <Label Name="lNombre" Content="_Nombre" Target="{Binding ElementName=tbNombre}"/>
-            <TextBox Name="tbNombre"></TextBox>
-            <Label Name="lApellidos" Content="_Apellidos" Target="{Binding ElementName=tbApellidos}"/>
-            <TextBox Name="tbApellidos"></TextBox>
-            <Label Name="lEmail" Content="_Email" />
-            <Button Width="150" HorizontalAlignment="Left" Foreground="White" Background="Black" Click="Button_Click">Rellenar email</Button>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label FontSize="25" HorizontalAlignment="Center" FontWeight="Bold">Formulario</Label>
+            
+            <Label FontSize="15" Content="_Nombre" Target="{Binding ElementName=tbNombre}"/>
+            <TextBox FontSize="15" Name="tbNombre" Width="500"></TextBox>
+            
+            <Label FontSize="15" Name="lApellidos" Content="_Apellidos" Target="{Binding ElementName=tbApellidos}"/>
+            <TextBox FontSize="15" Name="tbApellidos"></TextBox>
+            
+            <Label FontSize="15" Name="lEmail" Content="_Email" />
+            <TextBox FontSize="15" Name="tbEmail" IsReadOnly="True"></TextBox>
+            
+            <Button FontSize="15" Width="200" Margin="0,25,0,0"  Foreground="White" Background="Black" Click="Button_Click" Height="45">Rellenar email</Button>
         </StackPanel>
     </Grid>
 </Window>
