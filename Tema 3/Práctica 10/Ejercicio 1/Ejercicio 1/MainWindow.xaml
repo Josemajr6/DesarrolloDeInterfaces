@@ -1,0 +1,18 @@
+﻿<Window x:Class="Ejercicio_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_1"
+        mc:Ignorable="d"
+        Title="Comprobador DNI" Height="270" Width="580">
+    <Grid Margin="15">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label>Introduce un DNI sin la letra: </Label>
+                <TextBox x:Name="tbDNI" Margin="35,0,0,0" Width="300" TextChanged="tbDNI_TextChanged"></TextBox>
+            </StackPanel>
+            <TextBox x:Name="tbResultado" Margin="0,25,55,0" Height="120" IsReadOnly="True"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>
