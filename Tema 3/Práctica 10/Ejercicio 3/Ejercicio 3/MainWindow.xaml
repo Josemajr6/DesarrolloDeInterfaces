@@ -5,16 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ejercicio_3"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="2º DAM - Ejercicio Lista Tareas" Height="450" Width="800">
+    <Grid Margin="25" HorizontalAlignment="Center">
 
         <StackPanel>
-            <StackPanel Orientation="Horizontal">
-                <Button>Agregar nueva tarea</Button>
-                <Button>Mostrar siguiente</Button>
-                <Button>Mostrar siguiente</Button>
+            <StackPanel Orientation="Horizontal" Margin="0,35,0,0">
+                <Button Name="btnAgregarTarea" Click="btnAgregarTarea_Click" Width="Auto" Height="35px" Margin="0,0,30,0" Padding="10,0">Agregar nueva tarea</Button>
+                <Button Name="btnMostrarSiguiente" Click="btnMostrarSiguiente_Click" Width="Auto" Height="35px" Margin="0,0,30,0" Padding="10,0">Mostrar siguiente</Button>
+                <Button Name="btnRealizarSiguiente" Click="btnRealizarSiguiente_Click" Width="Auto" Height="35px" Margin="0,0,30,0" Padding="10,0">Realizar siguiente</Button>
+                <Button Name="btnMostrarNTareas" Click="btnMostrarNTareas_Click" Width="Auto" Height="35px" Margin="0,0,30,0" Padding="10,0">Mostrar nº de tareas</Button>
+                <Button Name="btnMostrarPendientes" Click="btnMostrarPendientes_Click" Width="Auto" Height="35px" Margin="0,0,30,0" Padding="10,0">Mostrar pendientes</Button>
             </StackPanel>
+
+            <TextBox Name="txtSalida" Margin="0,70,0,0" Height="230" 
+                     AcceptsReturn="True" VerticalScrollBarVisibility="Auto" FontSize="14">
+            </TextBox>
         </StackPanel>
-        
+
     </Grid>
 </Window>

@@ -1,0 +1,23 @@
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0-windows\Ejercicio 3.exe
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0-windows\Ejercicio 3.deps.json
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0-windows\Ejercicio 3.runtimeconfig.json
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0-windows\Ejercicio 3.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\bin\Debug\net8.0-windows\Ejercicio 3.pdb
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3_MarkupCompile.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3_MarkupCompile.lref
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.g.resources
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.AssemblyInfo.cs
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.sourcelink.json
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\refint\Ejercicio 3.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.pdb
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\Ejercicio 3.genruntimeconfig.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\ref\Ejercicio 3.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\AgregarTarea.baml
+C:\Users\alumno\Documents\GitHub\DesarrolloDeInterfaces\Tema 3\Práctica 10\Ejercicio 3\Ejercicio 3\obj\Debug\net8.0-windows\AgregarTarea.g.cs
