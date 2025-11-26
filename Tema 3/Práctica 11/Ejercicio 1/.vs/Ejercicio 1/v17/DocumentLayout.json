@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 11\\ejercicio 1\\ejercicio 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|solutionrelative:ejercicio 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 11\\ejercicio 1\\ejercicio 1\\ejercicio 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|solutionrelative:ejercicio 1\\ejercicio 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 11\\ejercicio 1\\ejercicio 1\\assets\\circulonaranja.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|solutionrelative:ejercicio 1\\assets\\circulonaranja.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 11\\ejercicio 1\\ejercicio 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6011CBB3-FA55-414A-BCB3-9E633D7AC675}|Ejercicio 1\\Ejercicio 1.csproj|solutionrelative:ejercicio 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "circuloNaranja.png - PNG [1024x1024, 32 bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\Assets\\circuloNaranja.png",
+              "RelativeDocumentMoniker": "Ejercicio 1\\Assets\\circuloNaranja.png",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\Assets\\circuloNaranja.png - PNG [1024x1024, 32 bits, PNG]",
+              "RelativeToolTip": "Ejercicio 1\\Assets\\circuloNaranja.png - PNG [1024x1024, 32 bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-11-26T13:03:30.889Z",
+              "EditorCaption": " - PNG [1024x1024, 32 bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio 1.csproj",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+              "RelativeDocumentMoniker": "Ejercicio 1\\Ejercicio 1.csproj",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\Ejercicio 1.csproj",
+              "RelativeToolTip": "Ejercicio 1\\Ejercicio 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T12:42:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ejercicio 1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\MainWindow.xaml",
+              "RelativeToolTip": "Ejercicio 1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T12:34:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio 1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 11\\Ejercicio 1\\Ejercicio 1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ejercicio 1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vyQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:34:19.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

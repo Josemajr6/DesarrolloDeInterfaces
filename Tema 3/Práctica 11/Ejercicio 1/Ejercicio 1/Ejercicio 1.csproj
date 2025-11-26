@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Ejercicio_1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\circuloNaranja.png" />
+    <None Remove="Assets\circuloRojo.png" />
+    <None Remove="Assets\circuloVerde.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\circuloNaranja.png" />
+    <Resource Include="Assets\circuloRojo.png" />
+    <Resource Include="Assets\circuloVerde.png" />
+  </ItemGroup>
+
+</Project>
