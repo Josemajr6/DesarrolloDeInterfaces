@@ -1,0 +1,82 @@
+﻿<Window x:Class="Ejercicio_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="500">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0" BorderBrush="Navy" BorderThickness="2" CornerRadius="10" Margin="0,0,0,10" Padding="10" Background="#F0F8FF">
+            <StackPanel>
+                <Label Content="1. DATOS PERSONALES" FontWeight="Bold" FontSize="14" Foreground="Navy" HorizontalAlignment="Center"/>
+
+                <Label Content="Nombre completo:"/>
+                <TextBox Margin="0,0,0,5"/>
+
+                <Label Content="Fecha de nacimiento:"/>
+                <DatePicker Margin="0,0,0,5"/>
+
+                <Label Content="Estado Civil:"/>
+                <ComboBox Margin="0,0,0,5" Text="Seleccione una opción" IsEditable="True">
+                    <ComboBoxItem Content="Soltero/a"/>
+                    <ComboBoxItem Content="Casado/a"/>
+                    <ComboBoxItem Content="Divorciado/a"/>
+                    <ComboBoxItem Content="Viudo/a"/>
+                </ComboBox>
+
+                <Label Content="Género:"/>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,5">
+                    <RadioButton Content="Masculino" GroupName="Genero" Margin="0,0,10,0"/>
+                    <RadioButton Content="Femenino" GroupName="Genero" Margin="0,0,10,0"/>
+                    <RadioButton Content="Otro" GroupName="Genero"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="1" BorderBrush="DarkGreen" BorderThickness="2" CornerRadius="10" Margin="0,0,0,10" Padding="10" Background="#F0FFF0">
+            <StackPanel>
+                <Label Content="2. DATOS LABORALES" FontWeight="Bold" FontSize="14" Foreground="DarkGreen" HorizontalAlignment="Center"/>
+
+                <Label Content="Puesto solicitado:"/>
+                <TextBox Margin="0,0,0,5"/>
+
+                <Label Content="Disponibilidad:"/>
+                <StackPanel Orientation="Vertical" Margin="5,0,0,5">
+                    <CheckBox Content="Disponibilidad para viajar"/>
+                    <CheckBox Content="Carnet de conducir" IsChecked="True"/>
+                    <CheckBox Content="Vehículo propio"/>
+                </StackPanel>
+
+                <Label Content="Años de experiencia (0-20):"/>
+                <Slider Minimum="0" Maximum="20" TickFrequency="1" IsSnapToTickEnabled="True" Margin="0,5,0,5"/>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Row="2" BorderBrush="DarkRed" BorderThickness="2" CornerRadius="10" Margin="0,0,0,10" Padding="10" Background="#FFF5F5">
+            <StackPanel>
+                <Label Content="3. OTROS DATOS" FontWeight="Bold" FontSize="14" Foreground="DarkRed" HorizontalAlignment="Center"/>
+
+                <Label Content="Comentarios adicionales o Carta de presentación:"/>
+                <TextBox TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" Height="80" Margin="0,0,0,10"/>
+
+                <Label Content="Suscribirse al boletín de noticias:"/>
+                <StackPanel Orientation="Horizontal">
+                    <RadioButton Content="Sí" GroupName="Boletin" IsChecked="True" Margin="0,0,10,0"/>
+                    <RadioButton Content="No" GroupName="Boletin"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <Button Grid.Row="3" Content="Enviar Formulario" Height="30" Width="150" HorizontalAlignment="Right" Background="LightGray"/>
+
+    </Grid>
+</Window>

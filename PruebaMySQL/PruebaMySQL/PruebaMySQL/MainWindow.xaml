@@ -1,0 +1,15 @@
+﻿<Window x:Class="PruebaMySQL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebaMySQL"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500">
+    <Grid>
+        <StackPanel Margin="25" VerticalAlignment="Center">
+            <Button Name="btnConectar" Height="25" Width="150" Background="Black" Foreground="White" Click="btnConectar_Click" >Conectar</Button>
+            <TextBox Name="tbResultado" Margin="15"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>
