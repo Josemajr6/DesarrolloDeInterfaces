@@ -1,0 +1,19 @@
+﻿<Window x:Class="Ejercicio_2___3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_2___3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="400">
+    <Grid>
+        <Border Margin="25" BorderThickness="2" BorderBrush="Gray" CornerRadius="20">
+            <StackPanel Margin="25,0,25,0" VerticalAlignment="Center" Height="146">
+                <Button Name="btnConectar" Foreground="White" FontFamily="Segoe UI Bold" Background="DarkGoldenrod" Click="btnConectar_Click">👽 Conectar con la base de datos</Button>
+                <TextBox Name="tbResConection" Margin="0,25,0,25"></TextBox>
+                <Button Name="btnMostrarDatos" Foreground="White" Background="Green" FontFamily="Segoe UI Semibold" BorderBrush="DarkGreen" Click="btnMostrarDatos_Click">👁️  Mostrar datos</Button>
+                <Button Name="btnInsertarDatos" Margin="0,15,0,0" Foreground="White" Background="CornflowerBlue" FontFamily="Segoe UI Semibold" BorderBrush="Gray" Click="btnInsertarDatos_Click">➕ Insertar Datos</Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

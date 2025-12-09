@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\agregarusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\agregarusuario.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\agregarusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\agregarusuario.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\mostrardatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\mostrardatos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\mostrardatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\mostrardatos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 12\\ejercicio 2 \u0026 3\\ejercicio 2 \u0026 3\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037BC6C6-C537-41DC-BDA0-028EF23F76D9}|Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3.csproj|solutionrelative:ejercicio 2 \u0026 3\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarUsuario.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\AgregarUsuario.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\AgregarUsuario.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\AgregarUsuario.xaml.cs",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\AgregarUsuario.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwCgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T13:27:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarUsuario.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\AgregarUsuario.xaml",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\AgregarUsuario.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\AgregarUsuario.xaml",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\AgregarUsuario.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-09T12:59:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvzQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:58:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MostrarDatos.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MostrarDatos.xaml",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\MostrarDatos.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MostrarDatos.xaml",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\MostrarDatos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-09T12:19:30.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MostrarDatos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MostrarDatos.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\MostrarDatos.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MostrarDatos.xaml.cs",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\MostrarDatos.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:24:04.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\MainWindow.xaml",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-09T11:58:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\Usuario.cs",
+              "RelativeDocumentMoniker": "Ejercicio 2 \u0026 3\\Usuario.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 12\\Ejercicio 2 \u0026 3\\Ejercicio 2 \u0026 3\\Usuario.cs",
+              "RelativeToolTip": "Ejercicio 2 \u0026 3\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:27:32.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
