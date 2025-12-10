@@ -1,0 +1,23 @@
+﻿<Window x:Class="Ejercicio_4.AgregarCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_4"
+        mc:Ignorable="d"
+        Title="AgregarCliente" Height="409" Width="345">
+    <Grid Margin="0,0,0,52">
+        <StackPanel Margin="25">
+            <Label FontFamily="Segoe UI Black" HorizontalAlignment="Left" FontSize="35" Height="80">Agregar Cliente</Label>
+            <Label Content="_Nombre:" Target="{Binding ElementName=tbNombre}"></Label>
+            <TextBox Name="tbNombre" Width="250" HorizontalAlignment="Left"></TextBox>
+
+            <Label Content="_DNI:" Target="{Binding ElementName=tbDNI}"></Label>
+            <TextBox Name="tbDNI" Width="250" HorizontalAlignment="Left"></TextBox>
+            <Label Content="_Saldo:" Target="{Binding ElementName=tbNombre}"></Label>
+            <TextBox Name="tbSaldo" Width="250" HorizontalAlignment="Left"></TextBox>
+
+            <Button Name="btnAgregar" Margin="50" Width="150" Background="Beige" HorizontalAlignment="Left" Click="btnAgregar_Click">Agregar</Button>
+        </StackPanel>
+    </Grid>
+</Window>

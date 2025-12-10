@@ -1,0 +1,17 @@
+﻿<Window x:Class="SimulacroExamen.InformeCompleto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimulacroExamen"
+        mc:Ignorable="d"
+        Title="InformeCompleto" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Label FontFamily="Segoe UI Black" HorizontalAlignment="Center" FontSize="35" Margin="25">Informes de Participantes</Label>
+            <Separator/>
+
+            <DataGrid Name="dgInformes" Margin="25" Height="250"></DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

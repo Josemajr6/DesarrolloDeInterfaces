@@ -5,6 +5,9 @@
     <Compile Update="EliminarParticipante.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="InformeCompleto.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="ModificarActividad.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

@@ -15,7 +15,11 @@
             <TextBox Name="tbDNI" Margin="15,0,0,0" Width="150" HorizontalAlignment="Left"></TextBox>
 
             <Label Content="_Actividad:" Target="{Binding ElementName=cbActividad}" Margin="15,10,0,0"></Label>
-            <ComboBox Name="cbActividad" Margin="15,0,0,0" Width="150" HorizontalAlignment="Left" ></ComboBox>
+            <ComboBox Name="cbActividad" Margin="15,0,0,0" Width="150" HorizontalAlignment="Left" >
+                <ComboBoxItem>Fútbol</ComboBoxItem>
+                <ComboBoxItem>Baloncesto</ComboBoxItem>
+                <ComboBoxItem>Natación</ComboBoxItem>
+            </ComboBox>
 
             <Label Content="_Edad:" Target="{Binding ElementName=tbDNI}" Margin="15,10,0,0"></Label>
             <TextBox Name="tbEdad" Margin="15,0,0,0" Width="150" HorizontalAlignment="Left"></TextBox>

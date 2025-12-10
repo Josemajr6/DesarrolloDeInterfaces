@@ -41,5 +41,12 @@ namespace SimulacroExamen
             eliminarParticipante.Show();
 
         }
+
+        private void InformeCompleto(object sender, RoutedEventArgs e)
+        {
+            InformeCompleto informeCompleto = new InformeCompleto();
+            informeCompleto.Show();
+
+        }
     }
 }

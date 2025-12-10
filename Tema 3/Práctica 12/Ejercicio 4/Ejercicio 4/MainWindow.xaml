@@ -1,0 +1,23 @@
+﻿<Window x:Class="Ejercicio_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel Margin="25" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="btnMostrarDatos" Margin="25" Width="180" Height="50" FontSize="20" Background="PaleGoldenrod" FontFamily="Segoe UI Semibold" Click="btnMostrarDatos_Click">Mostrar Datos</Button>
+                <Label VerticalAlignment="Center" FontSize="38" Foreground="DarkGoldenrod" >➜</Label>
+                <DataGrid Name="dgDatos" Margin="25" Width="418" Height="210"></DataGrid>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="btnAgregarCliente" Margin="25" Padding="2" Width="203" Height="50" FontSize="20" Background="PaleGoldenrod" FontFamily="Segoe UI Semibold" Click="btnAgregarCliente_Click">➕ Agregar Cliente</Button>
+                <Button Name="btnEditarCliente" Margin="25" Width="190" Height="50" FontSize="20" Background="PaleGoldenrod" FontFamily="Segoe UI Semibold" Click="btnEditarCliente_Click">✏ Editar Cliente</Button>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>
