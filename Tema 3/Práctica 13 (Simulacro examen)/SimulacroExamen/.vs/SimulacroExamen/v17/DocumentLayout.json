@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\modificaractividad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\modificaractividad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\modificaractividad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\modificaractividad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\nuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\nuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\nuevoparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\nuevoparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\eliminarparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\eliminarparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\eliminarparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\eliminarparticipante.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|c:\\users\\alumno\\documents\\github\\desarrollodeinterfaces\\tema 3\\pr\u00E1ctica 13 (simulacro examen)\\simulacroexamen\\simulacroexamen\\simulacroexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1856B92-5CCF-4DDB-821E-04CB28B2685E}|SimulacroExamen\\SimulacroExamen.csproj|solutionrelative:simulacroexamen\\simulacroexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimulacroExamen",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\SimulacroExamen.csproj",
+              "RelativeDocumentMoniker": "SimulacroExamen\\SimulacroExamen.csproj",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\SimulacroExamen.csproj",
+              "RelativeToolTip": "SimulacroExamen\\SimulacroExamen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T13:13:11.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EliminarParticipante.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\EliminarParticipante.xaml",
+              "RelativeDocumentMoniker": "SimulacroExamen\\EliminarParticipante.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\EliminarParticipante.xaml",
+              "RelativeToolTip": "SimulacroExamen\\EliminarParticipante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T13:24:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModificarActividad.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\ModificarActividad.xaml.cs",
+              "RelativeDocumentMoniker": "SimulacroExamen\\ModificarActividad.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\ModificarActividad.xaml.cs",
+              "RelativeToolTip": "SimulacroExamen\\ModificarActividad.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:22:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarActividad.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\ModificarActividad.xaml",
+              "RelativeDocumentMoniker": "SimulacroExamen\\ModificarActividad.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\ModificarActividad.xaml",
+              "RelativeToolTip": "SimulacroExamen\\ModificarActividad.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T13:13:33.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoParticipante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\NuevoParticipante.xaml.cs",
+              "RelativeDocumentMoniker": "SimulacroExamen\\NuevoParticipante.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\NuevoParticipante.xaml.cs",
+              "RelativeToolTip": "SimulacroExamen\\NuevoParticipante.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:04:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuevoParticipante.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\NuevoParticipante.xaml",
+              "RelativeDocumentMoniker": "SimulacroExamen\\NuevoParticipante.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\NuevoParticipante.xaml",
+              "RelativeToolTip": "SimulacroExamen\\NuevoParticipante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T12:38:06.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EliminarParticipante.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\EliminarParticipante.xaml.cs",
+              "RelativeDocumentMoniker": "SimulacroExamen\\EliminarParticipante.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\EliminarParticipante.xaml.cs",
+              "RelativeToolTip": "SimulacroExamen\\EliminarParticipante.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:27:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SimulacroExamen\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloDeInterfaces\\Tema 3\\Pr\u00E1ctica 13 (Simulacro examen)\\SimulacroExamen\\SimulacroExamen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SimulacroExamen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAwwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:05:39.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

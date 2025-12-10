@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\pelotabaloncesto.jpg" />
+    <None Remove="Assets\pelotafutbol.jpg" />
+    <None Remove="Assets\portada.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\pelotabaloncesto.jpg" />
+    <Resource Include="Assets\pelotafutbol.jpg" />
+    <Resource Include="Assets\portada.jpg" />
+  </ItemGroup>
+
+</Project>
